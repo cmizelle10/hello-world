@@ -1,2 +1,6 @@
 # hello-world
-sample repository
+Hello world,
+
+My name is Chris. I love sports, books, and movies. I also love coffee and programming with R!
+
+
